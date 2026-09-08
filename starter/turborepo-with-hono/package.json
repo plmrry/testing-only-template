@@ -1,6 +1,11 @@
 {
   "name": "with-hono",
   "private": true,
+  "//": "NOTE THIS IS JUST FOR TESTING",
+  "author": {
+    "name": "Vercel",
+    "email": "vercel+testing@vercel.com",
+  },
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
