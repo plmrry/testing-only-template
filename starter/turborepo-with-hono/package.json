@@ -6,6 +6,8 @@
     "name": "Vercel",
     "email": "vercel+testing@vercel.com",
   },
+  "description": "TEST package.json description",
+  "homepage": "https://test.vercel.sh",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
